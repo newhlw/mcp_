@@ -1,6 +1,9 @@
 # Node modules
 node_modules/
-
+client-app-fr/
+test.js
+sql.js
+server.js
 # Environment variables
 .env
 .env.*
