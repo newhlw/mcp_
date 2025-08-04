@@ -1,0 +1,20 @@
+{
+  "name": "mcp_",
+  "version": "1.0.0",
+  "main": "test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@google/genai": "^1.8.0",
+    "@modelcontextprotocol/sdk": "^1.13.3",
+    "cli-table3": "^0.6.5",
+    "cors": "^2.8.5",
+    "dotenv": "^17.0.1",
+    "mysql2": "^3.14.1"
+  }
+}
